@@ -24,7 +24,6 @@ public class LoginDAO {
 			return true;
 		}
 		
-		System.out.println("another error");
 		return false;
 	}
 }
